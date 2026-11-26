@@ -1,0 +1,6 @@
+{
+  "name": "BioLab AQA — GCSE Biology Virtual Laboratory",
+  "description": "An interactive virtual laboratory for completing all 10 AQA GCSE Biology required practicals with realistic apparatus, guided methods, safety protocols, data recording, and live scientific graphing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
